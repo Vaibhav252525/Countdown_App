@@ -47,7 +47,7 @@ function setCountDown(){
 
 
 
-var countDownDate = new Date("30 september 2023 11:00 PM").getTime();
+var countDownDate = new Date("30 september 2024 11:00 PM").getTime();
 
 
 // Update the count down every 1 second
